@@ -55,7 +55,7 @@ Hi, my name is Fucheng Hsieh. My interests include IoT, cellular network, and we
 #### :octocat: My Github activity
       
 ![Fred Hsieh's GitHub stats](https://github-readme-stats.vercel.app/api?username=fchsieh&count_private=true&theme=material-palenight&line_height=32&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchsieh&layout=compact&card_width=480&count_private=true&theme=material-palenight&hide_border=true&hide=jupyter%20notebook,java)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchsieh&layout=compact&card_width=430&count_private=true&theme=material-palenight&hide_border=true&hide=jupyter%20notebook,java)
     
 </td>
 <td valign="top" width="50%">
