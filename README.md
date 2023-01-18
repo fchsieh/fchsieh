@@ -6,8 +6,8 @@ Hi, my name is Fucheng Hsieh. My interests include IoT, cellular network, and we
 <span align="center">
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freddiehsieh/)
-[![Portfolio](https://img.shields.io/badge/_-portfolio-8787dd?style=for-the-badge&logo=appveyor?)](https://portfolio.fredhs.dev/)
-[![Resume](https://img.shields.io/badge/_-resume-ff7974?style=for-the-badge&logo=appveyor?)](https://docs.google.com/viewer?url=https://github.com/fchsieh/fchsieh.github.io/raw/master/resume/resume.pdf)
+[![Portfolio](https://img.shields.io/badge/_-portfolio-8711ff?style=for-the-badge&logo=appveyor?)](https://portfolio.fredhs.dev/)
+[![Resume](https://img.shields.io/badge/_-resume-ff1122?style=for-the-badge&logo=appveyor?)](https://docs.google.com/viewer?url=https://github.com/fchsieh/fchsieh.github.io/raw/master/resume/resume.pdf)
 
 </span>
 
