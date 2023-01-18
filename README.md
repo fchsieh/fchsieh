@@ -71,7 +71,7 @@ Hi, my name is Fucheng Hsieh. My interests include IoT, cellular network, and we
       
 #### 📆 I spent my time on
 
-![Fred's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fchsieh&theme=material-palenight&hide_border=true)
+![Fred's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fchsieh&theme=material-palenight&hide_border=true&custom_title=Weekly%20Development&range=last_7_days)
 
 </td>
 </tr>
