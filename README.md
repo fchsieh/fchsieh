@@ -62,7 +62,7 @@ Hi, my name is Fucheng Hsieh. My interests include IoT, cellular network, and we
       
 #### :dart: LeetCode Stats
       
-![LeetCode Stats](https://leetcard.jacoblin.cool/fredhs?theme=nord&font=Source%20Code%20Pro&ext=contest&height=100&border=0&radius=4.5)
+![LeetCode Stats](https://leetcard.jacoblin.cool/fredhs?theme=nord&font=Source%20Code%20Pro&ext=activity&height=100&border=0&radius=4.5)
     
 </td>
 </tr>
