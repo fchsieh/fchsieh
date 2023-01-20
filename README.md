@@ -54,7 +54,7 @@ Hi, my name is Fucheng Hsieh. My interests include IoT, cellular network, and we
       
 #### :octocat: My Github activity
       
-![Fred Hsieh's GitHub stats](https://github-readme-stats.vercel.app/api?username=fchsieh&count_private=true&theme=material-palenight&line_height=32&hide_border=true)
+![Fred Hsieh's GitHub stats](https://github-readme-stats.vercel.app/api?username=fchsieh&count_private=true&theme=material-palenight&line_height=30&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchsieh&layout=compact&card_width=430&count_private=true&theme=material-palenight&hide_border=true&hide=jupyter%20notebook,java)
     
 </td>
@@ -62,7 +62,7 @@ Hi, my name is Fucheng Hsieh. My interests include IoT, cellular network, and we
       
 #### :dart: LeetCode Stats
       
-![LeetCode Stats](https://leetcard.jacoblin.cool/fredhs?theme=nord&font=Source%20Code%20Pro&ext=activity&height=100&border=0&radius=4.5)
+![LeetCode Stats](https://leetcard.jacoblin.cool/fredhs?theme=nord&font=Source%20Code%20Pro&ext=contest&height=100&border=0&radius=4.5)
     
 </td>
 </tr>
