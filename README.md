@@ -1,6 +1,5 @@
 <h2 align="center"> <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hello, World! </h1>
 <p align="center">
-Hi, my name is Fucheng Hsieh. My interests include IoT, cellular network, and web development. I am a firm believer in open source and actively contribute to the community whenever possible. I am also an avid learner and am currently sharpening my skills by solving Leetcode problems and learning Rust. In my free time, I enjoy building applications using C/C++, Python, JavaScript, Go, and Rust. I am always eager to connect with like-minded individuals, so feel free to reach out and say hello!
 </p>
 
 <span align="center">
